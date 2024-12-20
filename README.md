@@ -1,7 +1,7 @@
 
 # Tennis Analysis
 
-## Readme is included inside the ABOVE main file
+## Readme is included inside the ABOVE main file in utils section
 ## Requirements
 * python3.8
 * ultralytics
